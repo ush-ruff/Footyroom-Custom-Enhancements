@@ -6,7 +6,7 @@
 // @version     0.2.0
 // @author      ushruff
 // @description Changes all links to open in current tab, Add button onto page to scroll to top, Change some team badges with more accurate images.
-// @require     https://raw.githubusercontent.com/ush-ruff/Footyroom---Custom-Enhancements/import-require/teamBadges.json
+// @require     https://raw.githubusercontent.com/ush-ruff/Footyroom-Custom-Enhancements/main/teamBadges.json
 // ==/UserScript==
 
 // --------------------
