@@ -1,5 +1,6 @@
 window.teamBadges = {
   "data" : [
+    // England
     {
       "name": "Chelsea",
       "code": 1,
@@ -149,6 +150,202 @@ window.teamBadges = {
       "name": "Luton Town",
       "code": 1832,
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/3e7bXAkZVEVAKQWTRQdGFw_96x96.png"
+    },
+
+    
+    // Germany
+    {
+      "name": "FC Koeln",
+      "code": 41,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/W94hx-q1SdXOZBrW6RSSVg_96x96.png"
+    },
+    {
+      "name": "Bayer Leverkusen",
+      "code": 42,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/0zIcXiwD_JGY482DFC28Lw_96x96.png"
+    },
+    {
+      "name": "Bayern Munich",
+      "code": 43,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/-_cmntP5q_pHL7g5LfkRiw_96x96.png"
+    },
+    {
+      "name": "Borussia Dortmund",
+      "code": 44,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png"
+    },
+    {
+      "name": "Borussia Moenchengladbach",
+      "code": 45,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/HFg_gp-vbuL7z1Othoa0ZA_96x96.png"
+    },
+    {
+      "name": "Eintracht Frankfurt",
+      "code": 46,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png"
+    },
+    {
+      "name": "Mainz 05",
+      "code": 47,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/-_DNuqGrrFQ5FUvKjb7zAw_96x96.png"
+    },
+    {
+      "name": "Hoffenheim",
+      "code": 51,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/zlO6wgTW2QB30eOypHGxDg_96x96.png"
+    },
+    {
+      "name": "Freiburg",
+      "code": 53,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/s0YO0sK9qrioMnzJuFGKuw_96x96.png"
+    },
+    {
+      "name": "VfB Stuttgart",
+      "code": 55,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/Qc_eb6-lZEDR8ojQmZxFhQ_96x96.png"
+    },
+    {
+      "name": "Bochum",
+      "code": 56,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/BY9Ihv1GcvZnxQWkPtEBug_96x96.png"
+    },
+    {
+      "name": "Wolfsburg",
+      "code": 57,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/nCdwmPlnAA041M4HDMzmkg_96x96.png"
+    },
+    {
+      "name": "Werder Bremen",
+      "code": 58,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
+    },
+    {
+      "name": "Augsburg",
+      "code": 589,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+    },
+    {
+      "name": "Union Berlin",
+      "code": 1728,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/zsPvbWQ2kNoiZX3sZXq-Yg_96x96.png"
+    },
+    {
+      "name": "Darmstadt",
+      "code": 1784,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/LRa03M7uie9UbhtSgw9jCg_96x96.png"
+    },
+    {
+      "name": "FC Heidenheim ",
+      "code": 2484,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
+    },
+    {
+      "name": "RB Leipzig",
+      "code": 2697,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+    },
+
+    
+    // Spain
+    {
+      "name": "Almeria",
+      "code": 79,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/kt3Bf9IFcvWB2N3CN-N7Wg_96x96.png"
+    },
+    {
+      "name": "Athletic Bilbao",
+      "code": 80,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/OSL_5Zm6kYPP1J17Bo5uDA_96x96.png"
+    },
+    {
+      "name": "Atletico Madrid",
+      "code": 81,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/srAAE0bOnCppUrlbJpFiHQ_96x96.png"
+    },
+    {
+      "name": "Barcelona",
+      "code": 82,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/paYnEE8hcrP96neHRNofhQ_96x96.png"
+    },
+    {
+      "name": "Getafe",
+      "code": 85,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/1UDHZMdKZD15W5gus7dJyg_96x96.png"
+    },
+    {
+      "name": "Mallorca",
+      "code": 87,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/Ss21P4CUmigjrEtcoapjVg_96x96.png"
+    },
+    {
+      "name": "Osasuna",
+      "code": 88,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/pk-hNCNpGM_JDoHHvLVF-Q_96x96.png"
+    },
+    {
+      "name": "Real Madrid",
+      "code": 90,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png"
+    },
+    {
+      "name": "Sevilla",
+      "code": 92,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/hCTs5EX3WjCMC5Jl3QE4Rw_96x96.png"
+    },
+    {
+      "name": "Valencia",
+      "code": 95,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/QPbjvDwI_0Wuu4tCS2O6uw_96x96.png"
+    },
+    {
+      "name": "Villarreal",
+      "code": 97,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png"
+    },
+    {
+      "name": "Real Sociedad",
+      "code": 408,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/w8tb1aeBfVZIj9tZXf7eZg_96x96.png"
+    },
+    {
+      "name": "Real Betis",
+      "code": 514,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/S0fDZjYYytbZaUt0f3cIhg_96x96.png"
+    },
+    {
+      "name": "Granada",
+      "code": 861,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/Fn_X2IO4-1ACuTemcHkDEw_96x96.png"
+    },
+    {
+      "name": "Girona",
+      "code": 872,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/sHiSmLm_rA0BOC5MfrNt8A_96x96.png"
+    },
+    {
+      "name": "Rayo Vallecano",
+      "code": 886,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/i5LifmxEVIl0sbvIysiyhw_96x96.png"
+    },
+    {
+      "name": "Cadiz",
+      "code": 913,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/H1vdTrUUqJBeUW1HfbW0nQ_96x96.png"
+    },
+    {
+      "name": "Celta Vigo",
+      "code": 916,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/wpdhixHP_sloegfP0UlwAw_96x96.png"
+    },
+    {
+      "name": "Las Palmas",
+      "code": 1806,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/yOIfuEFVFzu1dD8HiJt9vA_96x96.png"
+    },
+    {
+      "name": "Deportivo Alaves",
+      "code": 2194,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/meAnutdPID67rfUecKaoFg_96x96.png"
     }
   ]
 }
