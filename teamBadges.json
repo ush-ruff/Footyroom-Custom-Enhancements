@@ -390,11 +390,11 @@ window.teamBadges = {
 
     
     // Italy
-    {
-      "name": "",
-      "code": ,
-      "url": ""
-    },
+    // {
+    //   "name": "",
+    //   "code": ,
+    //   "url": ""
+    // },
     {
       "name": "Atalanta",
       "code": 62,
