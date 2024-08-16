@@ -52,6 +52,11 @@ window.teamBadges = {
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/CQFeTfHrtxqgr3VKWtTwfA_96x96.png"
     },
     {
+      "name": "Blackburn Rovers ",
+      "code": 14,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/9SHzswVb2HlYJfeUEkQNiQ_96x96.png"
+    },
+    {
       "name": "Burnley",
       "code": 16,
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/teLLSaMXim_8BA1d93sMng_96x96.png"
@@ -97,6 +102,11 @@ window.teamBadges = {
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/wF8AgQsssfy3_GLyVR3dSg_96x96.png"
     },
     {
+      "name": "Coventry City",
+      "code": 329,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/KHpmY4tIwqiutl8Cfl0MAw_96x96.png"
+    },
+    {
       "name": "Leicester City",
       "code": 330,
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/UDYY4FSlty6fXFBzvFfcyw_96x96.png"
@@ -106,6 +116,11 @@ window.teamBadges = {
       "code": 331,
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/Zr6FbE-8pDH7UBpWCO8U9A_96x96.png"
     },
+    {
+      "name": "Ipswich Town",
+      "code": 332,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/56vquJBk5U16Dng7txLXCw_96x96.png"
+    }
     {
       "name": "Norwich City",
       "code": 333,
@@ -141,6 +156,11 @@ window.teamBadges = {
       "code": 580,
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/QOUce0WQBYqnkSmN6_TxGA_96x96.png"
     },
+    {
+      "name": "Sheffield Wednesday",
+      "code": 616,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/9HNkxC3WNDFrs4XEWbkOrQ_96x96.png"
+    }
     {
       "name": "Brighton & Hove Albion",
       "code": 619,
@@ -220,9 +240,19 @@ window.teamBadges = {
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/v4G9srMr-9IWDhCXiPhAIw_96x96.png"
     },
     {
+      "name": "St. Pauli",
+      "code": 324,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/tMFLGl5GGkQXMihhpJVXuw_96x96.png"
+    },
+    {
       "name": "Augsburg",
       "code": 589,
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
+    },
+    {
+      "name": "Holstein Kiel ",
+      "code": 925,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
     },
     {
       "name": "Union Berlin",
@@ -268,6 +298,11 @@ window.teamBadges = {
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/paYnEE8hcrP96neHRNofhQ_96x96.png"
     },
     {
+      "name": "Espanyol",
+      "code": 84,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/TKitIqelDyN6M-kYt4Uc0g_96x96.png"
+    },
+    {
       "name": "Getafe",
       "code": 85,
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/1UDHZMdKZD15W5gus7dJyg_96x96.png"
@@ -296,6 +331,11 @@ window.teamBadges = {
       "name": "Valencia",
       "code": 95,
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/QPbjvDwI_0Wuu4tCS2O6uw_96x96.png"
+    },
+    {
+      "name": "Real Valladolid",
+      "code": 96,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/yvPDWQC1M4G7SIg9_eidgg_96x96.png"
     },
     {
       "name": "Villarreal",
@@ -346,6 +386,35 @@ window.teamBadges = {
       "name": "Deportivo Alaves",
       "code": 2194,
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/meAnutdPID67rfUecKaoFg_96x96.png"
-    }
+    },
+
+    
+    // Italy
+    {
+      "name": "",
+      "code": ,
+      "url": ""
+    },
+    {
+      "name": "Atalanta",
+      "code": 62,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+    },
+    {
+      "name": "AC Milan",
+      "code": 71,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
+    },
+    {
+      "name": "Parma Calcio 1913",
+      "code": 78,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
+    },
+    {
+      "name": "Torino",
+      "code": 2149,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+    },
+    
   ]
 }
