@@ -1,5 +1,5 @@
 window.teamBadges = {
-  "data" : [
+  "data": [
     // England
     {
       "name": "Chelsea",
@@ -52,7 +52,7 @@ window.teamBadges = {
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/CQFeTfHrtxqgr3VKWtTwfA_96x96.png"
     },
     {
-      "name": "Blackburn Rovers ",
+      "name": "Blackburn Rovers",
       "code": 14,
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/9SHzswVb2HlYJfeUEkQNiQ_96x96.png"
     },
@@ -120,7 +120,7 @@ window.teamBadges = {
       "name": "Ipswich Town",
       "code": 332,
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/56vquJBk5U16Dng7txLXCw_96x96.png"
-    }
+    },
     {
       "name": "Norwich City",
       "code": 333,
@@ -160,7 +160,7 @@ window.teamBadges = {
       "name": "Sheffield Wednesday",
       "code": 616,
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/9HNkxC3WNDFrs4XEWbkOrQ_96x96.png"
-    }
+    },
     {
       "name": "Brighton & Hove Albion",
       "code": 619,
@@ -250,7 +250,7 @@ window.teamBadges = {
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/gjz1Ml0qpVQuY3leN4z8mQ_96x96.png"
     },
     {
-      "name": "Holstein Kiel ",
+      "name": "Holstein Kiel",
       "code": 925,
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/9NJC7z1ReBNUIdqTTywvCw_96x96.png"
     },
@@ -265,7 +265,7 @@ window.teamBadges = {
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/LRa03M7uie9UbhtSgw9jCg_96x96.png"
     },
     {
-      "name": "FC Heidenheim ",
+      "name": "FC Heidenheim",
       "code": 2484,
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/Nqpb8Rl6ShUtB0ClAKRw-g_96x96.png"
     },
@@ -390,15 +390,45 @@ window.teamBadges = {
 
     
     // Italy
-    // {
-    //   "name": "",
-    //   "code": ,
-    //   "url": ""
-    // },
+    {
+      "name": "Juventus",
+      "code": 59,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/6lal-0xwWtos5HI99HRvuQ_96x96.png"
+    },
     {
       "name": "Atalanta",
       "code": 62,
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/0XmrZHobvb6ua5tgMOnTEA_96x96.png"
+    },
+    {
+      "name": "Udinese",
+      "code": 63,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/92Aw_iasBENKmzvdpbTpHQ_96x96.png"
+    },
+    {
+      "name": "Lazio",
+      "code": 65,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/VCmS5WyitnqY3ECAr0UYGw_96x96.png"
+    },
+    {
+      "name": "SSC Napoli",
+      "code": 66,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/uFG5ajpwa-CsTDJbswXkOg_96x96.png"
+    },
+    {
+      "name": "Cagliari",
+      "code": 67,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/e9XfySyGdfyJ4UzEkYwENw_96x96.png"
+    },
+    {
+      "name": "Fiorentina",
+      "code": 69,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/h-HS2cEVCwMJZFSlwYeWmA_96x96.png"
+    },
+    {
+      "name": "Bologna",
+      "code": 70,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/WnKdNmw06v2lz7HjhqPRPw_96x96.png"
     },
     {
       "name": "AC Milan",
@@ -406,14 +436,59 @@ window.teamBadges = {
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/0E1JciuKLW0EbG48I5cFRQ_96x96.png"
     },
     {
+      "name": "Roma",
+      "code": 73,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png"
+    },
+    {
+      "name": "Genoa",
+      "code": 74,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/85QkdgIOpAt-_EuQ9mKTPg_96x96.png"
+    },
+    {
+      "name": "Inter",
+      "code": 75,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/l2-icwsMhIvsbRw8AwC1yg_96x96.png"
+    },
+    {
       "name": "Parma Calcio 1913",
       "code": 78,
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/Pr7ZXZlx34eEXdUMTkLvkw_96x96.png"
     },
     {
+      "name": "Lecce",
+      "code": 321,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/tIaC5FB7Gm8CIULc77qMjg_96x96.png"
+    },
+    {
+      "name": "Empoli",
+      "code": 907,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/j8L__ffBY15ooTGG-0uZ2w_96x96.png"
+    },
+    {
+      "name": "Hellas Verona",
+      "code": 936,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/Y23PEIJgTvK3Qpm9il1MGA_96x96.png"
+    },
+    {
       "name": "Torino",
       "code": 2149,
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/ovE3HSEx4GWXkW8GU7KVhA_96x96.png"
+    },
+    {
+      "name": "Como",
+      "code": 2338,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/6InMYSIcwGvDV1SD3-cPGA_96x96.png"
+    },
+    {
+      "name": "Monza",
+      "code": 69632,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/g2S0HUWrWZX9hwKC87W11Q_96x96.png"
+    },
+    {
+      "name": "Venezia",
+      "code": 69995,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/NNnNl8N5_KJrxpIrK-zBRA_96x96.png"
     },
     
   ]
