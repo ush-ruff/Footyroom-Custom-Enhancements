@@ -3,10 +3,10 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://footyroom.co/*
 // @grant       none
-// @version     0.2.0
+// @version     0.2.1
 // @author      ushruff
 // @description Changes all links to open in current tab, Add button onto page to scroll to top, Change some team badges with more accurate images.
-// @require     https://raw.githubusercontent.com/ush-ruff/Footyroom-Custom-Enhancements/main/teamBadges.json
+// @require     https://raw.githubusercontent.com/ush-ruff/Footyroom-Custom-Enhancements/main/teamBadges.js
 // ==/UserScript==
 
 // --------------------
