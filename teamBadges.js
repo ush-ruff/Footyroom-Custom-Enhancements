@@ -360,7 +360,7 @@ window.teamBadges = {
     {
       "name": "Levante",
       "code": 552,
-      "url": ""
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/SQB-jlVosxVV1Ce79FhbOA_96x96.png"
     },
     {
       "name": "Granada",
@@ -499,6 +499,11 @@ window.teamBadges = {
       "name": "Pisa",
       "code": 1495,
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/mArEiirzGlQAboYWfQhbxw_96x96.png"
+    },
+    {
+      "name": "Sassuolo",
+      "code": 1652,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/GoeTFIVAZLA5JWk0-A6B0A_96x96.png"
     },
     {
       "name": "Torino",
