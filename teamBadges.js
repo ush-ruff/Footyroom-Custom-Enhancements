@@ -52,6 +52,16 @@ window.teamBadges = {
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/CQFeTfHrtxqgr3VKWtTwfA_96x96.png"
     },
     {
+      "name": "Wigan Athletic",
+      "code": 12,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/MzEXeIMoqUYJ0KD0DizbZw_96x96.png"
+    },
+    {
+      "name": "Birmingham City",
+      "code": 13,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/vZkXVHm56WFEs_I5q9OnJQ_96x96.png"
+    },
+    {
       "name": "Blackburn Rovers",
       "code": 14,
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/9SHzswVb2HlYJfeUEkQNiQ_96x96.png"
@@ -127,14 +137,29 @@ window.teamBadges = {
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/y-we_-8ySOubta5psWzDoA_96x96.png"
     },
     {
+      "name": "Cardiff City",
+      "code": 334,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/mTDxrTqWa4SqI0rCi5LhqA_96x96.png"
+    },
+    {
       "name": "Crystal Palace",
       "code": 335,
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/8piQOzndGmApKYTcvyN9vA_96x96.png"
     },
     {
+      "name": "Preston North End",
+      "code": 336,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/2NRxn9AO_zb45mFCRIdCYQ_96x96.png"
+    },
+    {
       "name": "Barnsley",
       "code": 338,
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/xA0k0rZwCeUA0klmw9n9iQ_96x96.png"
+    },
+    {
+      "name": "Millwall",
+      "code": 341,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/FjQESJIwYuTRJ5B7HvtzPA_96x96.png"
     },
     {
       "name": "Watford",
@@ -165,6 +190,16 @@ window.teamBadges = {
       "name": "Brighton & Hove Albion",
       "code": 619,
       "url": "https://ssl.gstatic.com/onebox/media/sports/logos/EKIe0e-ZIphOcfQAwsuEEQ_96x96.png"
+    },
+    {
+      "name": "Leyton Orient",
+      "code": 620,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/OMSY7cyLfOxoxcCsVtnTCw_96x96.png"
+    },
+    {
+      "name": "Plymouth Argyle",
+      "code": 834,
+      "url": "https://ssl.gstatic.com/onebox/media/sports/logos/0-4EMHbeV_YzGfJxCqoTnQ_96x96.png"
     },
     {
       "name": "Luton Town",
